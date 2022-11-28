@@ -18,7 +18,7 @@ body {
 
 header {
     font-family: monospace;
-    color: white;
+    color: rgb(0, 195, 255);
     background-color: rgb(19, 19, 19);
     padding: 3vh;
 }
