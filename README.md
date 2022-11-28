@@ -1,2 +1,2 @@
 # AprendendoGit
-Este repositório é apenas para **estudo** de **Git** e **GitHub**.
+Este repositório é apenas para **meu** **estudo** de **Git** e **GitHub**.
