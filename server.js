@@ -1,6 +1,6 @@
+require('dotenv').config()
 const express = require('express')
 const app = express()
-const port = 8080;
 
 app.use(express.static('./public/'))
 
@@ -8,7 +8,7 @@ app.get('/', (req, res) => {
     res.sendFile('./index.html')
 })
 
-app.listen(port, () => {
-    console.log(`server listening on *:${port}`)
+app.listen(process.env.SERVER_PORT, () => {
+    console.log(`server listening on *:${process.env.SERVER_PORT}`)
 })
 
