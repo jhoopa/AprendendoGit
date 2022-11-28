@@ -1,0 +1,16 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(241, 241, 241);
+}
+
+header {
+    font-family: monospace;
+    color: white;
+    background-color: rgb(19, 19, 19);
+    padding: 20px;
+}
