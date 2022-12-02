@@ -13,13 +13,13 @@ main {
 }
 
 body {
-    background-color: rgb(241, 241, 241);
+    background-color: rgb(22, 22, 22);
 }
 
 header {
     font-family: monospace;
-    color: rgb(0, 195, 255);
-    background-color: rgb(19, 19, 19);
+    color: rgb(43, 205, 255);
+    background-color: rgb(48, 48, 48);
     padding: 3vh;
 }
 
@@ -27,6 +27,7 @@ div {
     font-family: monospace;
     padding: 20px 60px;
     font-size: 5.5rem;
-    background-color: rgba(207, 207, 207, 0.76);
+    color: aquamarine;
+    background-color: rgba(36, 36, 36, 0.76);
     border-radius: 10%;
 }
